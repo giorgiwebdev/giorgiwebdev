@@ -5,8 +5,8 @@
 - 📫 You can reach me through email at giorgirapava.webdev@gmail.com. I'm always open to networking and discussing potential collaborations.
 
 Links:
-- <a href="https://medium.com/me/stories/public" target="_blank">Medium Blogs</a>
-- <a href="https://www.linkedin.com/in/giorgi-rapava-a40a52215/" target="_blank">LinkedIn Profile</a>
+- [Medium Blogs](https://medium.com/me/stories/public)
+- [LinkedIn Profile](https://www.linkedin.com/in/giorgi-rapava-a40a52215/)
 
 
 <!---
